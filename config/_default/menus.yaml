@@ -5,7 +5,7 @@
 
 main:
   - name: Dr. Wang
-    url: authors/wangping
+    url: author/ping-wang-王平
     weight: 5
   - name: Tour
     url: tour
