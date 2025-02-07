@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        WangPing
+        Lab
       image:
         filename: welcome.jpg
       text: |
